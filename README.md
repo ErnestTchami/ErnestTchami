@@ -1,7 +1,7 @@
 # Hi! I'M Iradukunda Ernest 👋
 ### 💫 About Me:
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=TresorRw&label=Profile%20views&color=blue&style=flat" alt="TresorRw" /> 
+  <img src="https://komarev.com/ghpvc/?username=ErnestTchami&label=Profile%20views&color=blue&style=flat" alt="ErnestTchami" /> 
 </p>
  - 📧 Reach me via email: tchamianest@gmail.com <br>
  - 🔭 I'm currently working on an issue tracker app <br>
