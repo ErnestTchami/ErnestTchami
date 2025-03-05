@@ -5,7 +5,6 @@
 </p>
  - 📧 Reach me via email: tchamianest@gmail.com <br>
  - 🔭 I'm currently working on an issue tracker app <br>
-Feel free to star this repo 🤗
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iradukunda-ernest) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Tchamianest4) 
