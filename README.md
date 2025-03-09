@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ErnestTchami&label=Profile%20views&color=blue&style=flat" alt="ErnestTchami" /> 
 </p>
  - 📧 Reach me via email: tchamianest@gmail.com <br>
- - 🔭 I'm currently working on an issue tracker app <br>
+ - 🔭 I'm currently working on Health connect <br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iradukunda-ernest) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Tchamianest4) 
