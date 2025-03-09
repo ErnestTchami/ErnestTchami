@@ -15,7 +15,7 @@ I have experience with various technologies, tools and programming languages, in
 ### 📊 GitHub Stats:
 [![ErnestTchami GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestTchami&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![ErnestTchami Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestTchami&theme=radical&show_icons=true&hide_border=true&layout=compact) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TresorRw&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ErnestTchami&theme=dark&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ErnestTchami&theme=radical&no-frame=false&no-bg=false&margin-w=4)
